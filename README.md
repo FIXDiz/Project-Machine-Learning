@@ -6,7 +6,7 @@ I hope that this repo will help those wanting to learn data science and machine 
 
 More experienced data scientists/ programmers can also come here and contribute to this readme, of what i should change in my plan.
 
-## Actual path
+## The Path
 
 So, this path will be divided into three sections: The foundations, which i call "Meat and Potatoes" (**MAP**) of data science, this section cover all the mathematics (calculus, linear algebra), computer science and statistics/probability. The second section will be about an introduction to data science and machine learning (**INTRO DATA**). And finally the last section will cover advanced topics about data science and machine learning (**ADVANCED**).
 
@@ -25,6 +25,8 @@ M1.3. [**Multi-variable Calculus - MIT ocw**](https://ocw.mit.edu/courses/mathem
 M2.1. [**101 Intro do CS with python by MIT on edx.org**](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
 
 M2.2. [**Automate the Boring Stuff with Python by Al Sweigart**](https://automatetheboringstuff.com)
+
+M2.3. [**Introduction to Computational Thinking and Data Science by MIT on edx.org**] (https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5)
 
 
 
