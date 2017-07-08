@@ -44,6 +44,24 @@ M3.3. [**Think Bayes**](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)
 
 ### INTRO DATA - Introduction to Data Science and Machine Learning
 
+#### 1. Data Science:
+
+I1.1. [**The Analytics Edge**](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
+
+I1.2. [**Intro to Data Science -University of Washington**](https://www.coursera.org/specializations/data-science)
+
+I1.3. [**Data Science CS109**](http://cs109.github.io/2015/pages/videos.html)
+
+#### 2. Machine Learning:
+
+I2.1. [**Learning From Data (Introductory Machine Learning) - caltech**](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0)
+
+I2.2. [**Stanford's Machine Learning Course**](http://cs229.stanford.edu/)
+
+**Important Note:** By the time i finish all, or almost all these courses, i should be able to tackle the easiest problems on [Keggle](www.keggle.com)
+
+
+
 
 
 
