@@ -23,6 +23,7 @@ M1.3. [**Multi-variable Calculus - MIT ocw**](https://ocw.mit.edu/courses/mathem
 #### 2. Programming:
 
 M2.1. [**101 Intro do CS with python by MIT on edx.org**](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
+M2.2. [**Automate the Boring Stuff with Python by Al Sweigart**(https://automatetheboringstuff.com)
 
 
 
