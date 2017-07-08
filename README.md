@@ -58,7 +58,35 @@ I2.1. [**Learning From Data (Introductory Machine Learning) - caltech**](https:/
 
 I2.2. [**Stanford's Machine Learning Course**](http://cs229.stanford.edu/)
 
-**Important Note:** By the time i finish all, or almost all these courses, i should be able to tackle the easiest problems on [Keggle](www.keggle.com)
+**Important Note:** By the time i finish all, or almost all these courses, i should be able to tackle the easiest problems on [Keggle](www.keggle.com).
+
+### ADVANCED
+
+This section is still under construction, but i'll put some courses that i might take:
+
+#### 1. Distributed and Parallel computing:
+
+A1.1. [**Intro to Hadoop and MapReduce**](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
+
+A1.2. [**Introduction to Big Data with Apache Spark**](https://www.edx.org/course/big-data-analysis-apache-spark-uc-berkeleyx-cs110x)
+
+#### 2. Convex Optimization: 
+
+A2.1. [**Convex Optimization**](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)
+
+#### 3. Databases:
+
+A3.1. [**Stanford's Database course**](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+
+#### 4. Deep Learning:
+
+A 4.1. [**Deep Learning on udacity**](https://www.udacity.com/course/deep-learning--ud730)
+
+
+
+
+
+
 
 
 
