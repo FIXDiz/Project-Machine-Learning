@@ -8,11 +8,17 @@ More experienced data scientists/ programmers can also come here and contribute 
 
 ## Actual path
 
-So, this path will be divided into three sections: The foundations, which i call "Meat and Potatoes" (MAP) of data science, this section cover all the mathematics (calculus, linear algebra), computer science and statistics/probability. The second section will be about an introduction to data science and machine learning (INTRO DATA). And finally the last section will cover advanced topics about data science and machine learning (ADVANCED).
+So, this path will be divided into three sections: The foundations, which i call "Meat and Potatoes" (**MAP**) of data science, this section cover all the mathematics (calculus, linear algebra), computer science and statistics/probability. The second section will be about an introduction to data science and machine learning (**INTRO DATA**). And finally the last section will cover advanced topics about data science and machine learning (**ADVANCED**).
 
 ### MAP - Meat and Potatoes
 
 #### Mathematics:
+
+[**Single Variable Calculus - MIT ocw** (Course Website)](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.html) 
+
+[**Linear algebra - MIT ocw** (Course Website)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
+[**Multi-variable Calculus - MIT ocw** (Course Website)](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 
 
 
