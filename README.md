@@ -14,7 +14,7 @@ So, this path will be divided into three sections: The foundations, which i call
 
 #### 1. Mathematics:
 
-M1.1. [**Single Variable Calculus - MIT ocw**](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.html) [ ]
+M1.1. [**Single Variable Calculus - MIT ocw**](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.html) [x]
 
 M1.2. [**Linear algebra - MIT ocw**](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) [ ]
 
