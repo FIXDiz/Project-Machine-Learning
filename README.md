@@ -12,13 +12,19 @@ So, this path will be divided into three sections: The foundations, which i call
 
 ### MAP - Meat and Potatoes
 
-#### Mathematics:
+#### 1. Mathematics:
 
-[**Single Variable Calculus - MIT ocw** (Course Website)](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.html) 
+M1.1. [**Single Variable Calculus - MIT ocw**](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.html) 
 
-[**Linear algebra - MIT ocw** (Course Website)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+M1.2. [**Linear algebra - MIT ocw**](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 
-[**Multi-variable Calculus - MIT ocw** (Course Website)](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+M1.3. [**Multi-variable Calculus - MIT ocw**](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+
+#### 2. Programming:
+
+M2.1. [**101 Intro do CS with python by MIT on edx.org**](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
+
+
 
 
 
