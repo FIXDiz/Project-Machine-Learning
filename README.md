@@ -83,19 +83,12 @@ A3.1. [**Stanford's Database course**](https://lagunita.stanford.edu/courses/DB/
 A 4.1. [**Deep Learning on udacity**](https://www.udacity.com/course/deep-learning--ud730)
 
 
+## Credits
 
+And last bue not least, some of the places where i got this course list from:
 
+1. https://github.com/open-source-society/data-science
 
+2. https://www.quora.com/How-can-I-become-a-data-scientist-1/answer/Rahul-Agarwal-10
 
-
-
-
-
-
-
-
-
-
-
-
-
+3. https://elitedatascience.com/learn-machine-learning
