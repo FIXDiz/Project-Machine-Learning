@@ -28,9 +28,9 @@ M2.2. [**Automate the Boring Stuff with Python by Al Sweigart**](https://automat
 
 M2.3. [**Introduction to Computational Thinking and Data Science by MIT on edx.org**](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-5)
 
-M2.4. [**Data Structures and Algorithms**](https://www.coursera.org/specializations/algorithms)
+M2.4. [**Algorithm Design and Analysis**](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x#!)
 
-M2.5. [**RICE University: Comp Sci Mini Specialization**](https://www.coursera.org/specializations/fundamentalscomputing2)
+M2.5. [**Data Structures and Software Design**](https://www.edx.org/course/data-structures-software-design-pennx-sd2x#!)
 
 M2.6. [**Object-Oriented Programming using python**](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 
