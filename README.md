@@ -48,7 +48,7 @@ M3.3. [**Think Bayes**](http://www.greenteapress.com/thinkbayes/thinkbayes.pdf)
 
 I1.1. [**The Analytics Edge**](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 
-I1.2. [**Data Science A-Z™**](https://www.udemy.com/datascience/?siteID=SAyYsTvLiGQ-P3He.Z_rtjimhO5SK0cQLw&LSNPUBID=SAyYsTvLiGQ)
+I1.2. [**Python for Data Science**](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)
 
 I1.3. [**Data Science CS109**](http://cs109.github.io/2015/pages/videos.html)
 
